@@ -9,7 +9,7 @@
 - `01-account.md`：账号、注册、登录与找回密码。
 - `02-yuehua.md`：月华与交易。
 - `03-support.md`：客服渠道、服务时间与转人工规则。
-- `04-feedback-partnership.md`：建言板与商务合作。
+- `04-feedback-partnership.md`：建言板、商务合作与加入我们。
 - `05-policies.md`：安全、隐私与能力边界。
 - `06-faq.md`：常见问答。
 

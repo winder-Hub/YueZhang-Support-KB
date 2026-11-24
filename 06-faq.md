@@ -1,7 +1,7 @@
 # 常见问题
 
 问：月章是什么？
-答：月章是 VibeCoding、Resource Sharing 与 MoneyToTime 的共同入口，三个世界分别提供软件与定制开发、图书与学习资料、校园生活服务委托。
+答：月章是 VibeCoding、Resource Sharing 与 MoneyToTime 的共同入口，三个世界分别提供软件与定制开发、打印服务、校园生活服务委托。
 
 问：三个世界的网址是什么？
 答：VibeCoding 是 https://vc.yuezhangio.com，Resource Sharing 是 https://rs.yuezhangio.com，MoneyToTime 是 https://mt.yuezhangio.com。

@@ -3,7 +3,7 @@
 月章（英文名 YueZhangio，主域名 yuezhangio.com）是一个把三个独立世界连接在一起的入口。它不是单一产品，而是三个站点的共同门厅：
 
 - VibeCoding（vc.yuezhangio.com）：软件、工具与定制开发。
-- Resource Sharing（rs.yuezhangio.com）：图书与学习资料的共享。
+- Resource Sharing（rs.yuezhangio.com）：打印服务。
 - MoneyToTime（mt.yuezhangio.com）：校园生活服务委托，用时间与技能互相帮助。
 
 月章主站提供两个前端版本：

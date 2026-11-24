@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-24",
+  "title": "月章智能客服知识库",
+  "files": [
+    "00-identity.md",
+    "01-account.md",
+    "02-yuehua.md",
+    "03-support.md",
+    "04-feedback-partnership.md",
+    "05-policies.md",
+    "06-faq.md"
+  ]
+}
